@@ -1,0 +1,14 @@
+C:\Users\Oliver\RiderProjects\MusicListapi\MusicListapi\bin\Debug\netcoreapp2.2\MusicListapi.deps.json
+C:\Users\Oliver\RiderProjects\MusicListapi\MusicListapi\bin\Debug\netcoreapp2.2\MusicListapi.runtimeconfig.json
+C:\Users\Oliver\RiderProjects\MusicListapi\MusicListapi\bin\Debug\netcoreapp2.2\MusicListapi.runtimeconfig.dev.json
+C:\Users\Oliver\RiderProjects\MusicListapi\MusicListapi\bin\Debug\netcoreapp2.2\MusicListapi.dll
+C:\Users\Oliver\RiderProjects\MusicListapi\MusicListapi\bin\Debug\netcoreapp2.2\MusicListapi.pdb
+C:\Users\Oliver\RiderProjects\MusicListapi\MusicListapi\obj\Debug\netcoreapp2.2\MusicListapi.csprojAssemblyReference.cache
+C:\Users\Oliver\RiderProjects\MusicListapi\MusicListapi\obj\Debug\netcoreapp2.2\MusicListapi.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\RiderProjects\MusicListapi\MusicListapi\obj\Debug\netcoreapp2.2\MusicListapi.RazorAssemblyInfo.cache
+C:\Users\Oliver\RiderProjects\MusicListapi\MusicListapi\obj\Debug\netcoreapp2.2\MusicListapi.RazorAssemblyInfo.cs
+C:\Users\Oliver\RiderProjects\MusicListapi\MusicListapi\obj\Debug\netcoreapp2.2\MusicListapi.AssemblyInfoInputs.cache
+C:\Users\Oliver\RiderProjects\MusicListapi\MusicListapi\obj\Debug\netcoreapp2.2\MusicListapi.AssemblyInfo.cs
+C:\Users\Oliver\RiderProjects\MusicListapi\MusicListapi\obj\Debug\netcoreapp2.2\MusicListapi.RazorTargetAssemblyInfo.cache
+C:\Users\Oliver\RiderProjects\MusicListapi\MusicListapi\obj\Debug\netcoreapp2.2\MusicListapi.dll
+C:\Users\Oliver\RiderProjects\MusicListapi\MusicListapi\obj\Debug\netcoreapp2.2\MusicListapi.pdb
